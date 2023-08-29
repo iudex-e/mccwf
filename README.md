@@ -11,7 +11,7 @@ A solution to generate 'mccoys.com/shop'-like HTML views for entities external t
 
 ## Accepted Input (and how to):
 1. In your solution, create an output method or modify an existing one in to write valid JSON to-file.
->The only required key/value pair for an `items` object entry is *`sku`*. and `attributes` (attributes can be empty).\
+>The only required key/value pair for an `items` object entry is *`sku`* and `attributes` (attributes can be empty).\
 \
  ![valid json structure image](readme_assets/example_struct.png)
 * Any data within the `attributes` object will not be operated or interpreted to assess/derive additional information. Rather, it will be passed along and formatted as-is.
