@@ -18,7 +18,7 @@ A solution to generate 'mccoys.com/shop'-like HTML views for entities external t
 * The program was not written with array or object nesting in mind.
 > *If you have other values that are passable as strings but aren't actually strings, they may prevent the format from succeeding or cause unintended affects.*
 
-| From Proper Iutput | From Improper Input |
+| From Proper Input | From Improper Input |
 | ----------- | ----------- |
 | ![expected output for a product](readme_assets/formatted_product_card.PNG) | ![improper output for a product](readme_assets/improperly_formatted_product_card.PNG) |
   
