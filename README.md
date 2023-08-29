@@ -22,6 +22,6 @@ A solution to generate 'mccoys.com/shop'-like HTML views for entities external t
 | ----------- | ----------- |
 | ![expected output for a product](readme_assets/formatted_product_card.PNG) | ![improper output for a product](readme_assets/improperly_formatted_product_card.PNG) |
   
-The intention of outputting this way is to allow the solution's data to persist at the capacity its developers want it to (debugging, discovery, etc).\
+The intention of outputting this way is to allow the solution's data to persist at the capacity its developers want it to (debugging, discovery, etc) while still providing a consistent visualization method.\
 \
 Tip: *If you add the program's directory to your system/user environment variables for global use, you may still need to provide the program with the full path to the file you want to use (pwd works **great** here).*
