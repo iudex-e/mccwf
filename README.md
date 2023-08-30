@@ -1,5 +1,5 @@
 # [MCCWF] *McCoy's Web Formatter*
-A solution to generate 'mccoys.com/shop'-like HTML views for entities external to McCoy's. Said solution keeps the struct/object constraints loose and does not compromise proprietary internal information.
+A solution to generate 'mccoys.com/shop'-like HTML views from-file where said file contains an accepted structure. MCCWF keeps the object constraints loose and does not compromise proprietary or sensitive internal information.
 
 ## Quickstart!!
 ![Easy how-to](readme_assets/quickstart.PNG)
